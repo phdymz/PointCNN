@@ -1,5 +1,5 @@
 # PointCNN
-Unofficial PyTorch implementation of PointCNN for segmentation
+Unofficial PyTorch implementation of PointCNN for vessel segmentation
 
 We implement a pytorch-version PointCNN for vessel segmentation. 
 The network is implemented using pytorch-geometric. 
